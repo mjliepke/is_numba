@@ -1,2 +1,5 @@
 .venv/*
 *.pyc
+.pytest_cache/
+is_numba.egg-info/
+dist/
